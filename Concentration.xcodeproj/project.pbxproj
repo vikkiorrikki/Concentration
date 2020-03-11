@@ -13,6 +13,8 @@
 		F519D5EE2416B869009B9A3B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F519D5EC2416B869009B9A3B /* Main.storyboard */; };
 		F519D5F02416B869009B9A3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F519D5EF2416B869009B9A3B /* Assets.xcassets */; };
 		F519D5F32416B869009B9A3B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F519D5F12416B869009B9A3B /* LaunchScreen.storyboard */; };
+		F519D5FB24196424009B9A3B /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = F519D5FA24196424009B9A3B /* Concentration.swift */; };
+		F519D5FD241964F1009B9A3B /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = F519D5FC241964F1009B9A3B /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		F519D5EF2416B869009B9A3B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F519D5F22416B869009B9A3B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F519D5F42416B869009B9A3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F519D5FA24196424009B9A3B /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
+		F519D5FC241964F1009B9A3B /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				F519D5E62416B868009B9A3B /* AppDelegate.swift */,
 				F519D5E82416B868009B9A3B /* SceneDelegate.swift */,
 				F519D5EA2416B869009B9A3B /* ViewController.swift */,
+				F519D5FA24196424009B9A3B /* Concentration.swift */,
+				F519D5FC241964F1009B9A3B /* Card.swift */,
 				F519D5EC2416B869009B9A3B /* Main.storyboard */,
 				F519D5EF2416B869009B9A3B /* Assets.xcassets */,
 				F519D5F12416B869009B9A3B /* LaunchScreen.storyboard */,
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				F519D5EB2416B869009B9A3B /* ViewController.swift in Sources */,
+				F519D5FB24196424009B9A3B /* Concentration.swift in Sources */,
+				F519D5FD241964F1009B9A3B /* Card.swift in Sources */,
 				F519D5E72416B868009B9A3B /* AppDelegate.swift in Sources */,
 				F519D5E92416B868009B9A3B /* SceneDelegate.swift in Sources */,
 			);
